@@ -2,19 +2,19 @@
             body{
                 background-image: url(m.jpg);
                 background-position: center;
-                background-repeat: no-repeat;
+                background-repeat: repeat;
                 background-size: cover;
                 height: 100%;
-                width: 98%;
+                width: 80%;
                 }
           #d2{
               
               height: 90px;
-              margin-left: 150px;
+              margin-right: 150px;
           }
           #d3{
               height: 600px;
-              float: left;
+              float: center;
               height: 600px;
               width: 600px;
           }
@@ -30,7 +30,7 @@
           #d5{
               margin-top: 10px;
               text-align: end;
-              height: 200px;
+              height: 100px;
           }
           #d6{
               margin-left: 150px;
